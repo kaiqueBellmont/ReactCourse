@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  font-family: Helvetica;
+  padding-bottom: 500px;
+}
+
+h1 {
+  color: aliceblue;
+}
+
+.red-title {
+  background-color: black;
+  color: red;
+  padding: 15px;
+  border: 5px solid red;
+}
+
+.title {
+  background-color: black;
+  color: aliceblue;
+}

@@ -1,0 +1,12 @@
+/* este causa conflito, porque vaza.*/
+/* deve-se usar class*/
+
+p {
+    color: brown;
+    background-color: blue;
+}
+
+.my-comp-paragraph {
+    color: white;
+    background-color: cadetblue;
+}
